@@ -1,0 +1,2 @@
+# Blaze
+Decentralized Crowdfunding Platform
