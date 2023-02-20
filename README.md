@@ -18,7 +18,8 @@ Steps for running this project on local host:
   http://localhost:3000/
   ```
   ![gittut](https://user-images.githubusercontent.com/91558289/220046282-c509931a-8ac4-45d7-9296-2bc11a9efcfc.png)
-   OR
+  
+  <br>OR</br>
     
 - Open the files using VSCode->open terminal->type command:
    
